@@ -1,0 +1,15 @@
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.AssemblyInfoInputs.cache
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.AssemblyInfo.cs
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.csproj.CoreCompileInputs.cache
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.sourcelink.json
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/bin/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/bin/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.deps.json
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/bin/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.runtimeconfig.json
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/bin/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.dll
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/bin/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.pdb
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.dll
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/refint/1n-exercicios-de-reaquecimento-time-0.dll
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.pdb
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/1n-exercicios-de-reaquecimento-time-0.genruntimeconfig.cache
+/Users/matheusboff/Desktop/POA/1n-exercicios-de-reaquecimento-time-0/obj/Debug/net9.0/ref/1n-exercicios-de-reaquecimento-time-0.dll
